@@ -13,7 +13,7 @@ This project visualizes earthquake data from the USGS using Leaflet, showing the
 
 ## Getting Started
 
-###Prerequisites
+### Prerequisites
 
 - A web browser to open the project.
 - Internet connection to access the map tiles and USGS data.
