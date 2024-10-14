@@ -19,9 +19,9 @@ This project visualizes earthquake data from the USGS using Leaflet, showing the
 - Internet connection to access the map tiles and USGS data.
 
 ### How to Use
-**1.** Clone or download the project files.
-**2.** Open index.html in your web browser.
-**3.** Explore the interactive map.
+- **1.** Clone or download the project files.
+- **2.** Open index.html in your web browser.
+- **3.** Explore the interactive map.
 
 ### Project Files
 
